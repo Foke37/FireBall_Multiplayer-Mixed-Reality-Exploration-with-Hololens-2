@@ -1,0 +1,18 @@
+hand Tracking : 
+https://xrlab.dev/custom-hand-joint-tracking-for-hololens/
+https://learn.microsoft.com/en-us/dotnet/api/microsoft.mixedreality.toolkit.utilities.trackedhandjoint?view=mixed-reality-toolkit-unity-2020-dotnet-2.6.0
+https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/hand-tracking?view=mrtkunity-2022-05
+
+Make Object Fireball:
+https://www.youtube.com/watch?v=VpllBs22rHU&list=LL&index=7&t=217s&ab_channel=AqsaNadeem
+
+Make shoot Fireball;
+https://www.youtube.com/watch?v=cLkj6Ewap14&list=LL&index=5&t=988s&ab_channel=DapperDino
+
+MRTK:
+https://learn.microsoft.com/en-us/training/modules/learn-mrtk-tutorials/1-1-introduction
+https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/ux-building-blocks/solvers/solver?view=mrtkunity-2022-05
+https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/ux-building-blocks/near-menu?view=mrtkunity-2022-05
+
+Photon:
+https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-sharing-01
